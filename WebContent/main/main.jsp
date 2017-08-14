@@ -7,20 +7,20 @@
 <title>Insert title here</title>
 <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900|Quicksand:400,700|Questrial" rel="stylesheet" />
 <link href="../css/default2.css" rel="stylesheet" type="text/css" media="all" />
-<link href="../css/fonts.css" rel="stylesheet" type="text/css" media="all" />
+
 </head>
 <body>
 
 <div id="header-wrapper">
 	<div id="header" class="container">
 		<div id="logo">
-			<h1><a href="#">EarthyBlue</a></h1>
+			<h1><a href="#">Airport</a></h1>
 			<div id="menu">
 				<ul>
-					<li class="active"><a href="#" accesskey="1" title="">Homepage</a></li>
-					<li><a href="#" accesskey="2" title="">Our Clients</a></li>
-					<li><a href="#" accesskey="3" title="">About Us</a></li>
-					<li><a href="#" accesskey="4" title="">Careers</a></li>
+					<li class="active"><a href="#" accesskey="1" title="">Notice</a></li>
+					<li><a href="#" accesskey="2" title="">Travel</a></li>
+					<li><a href="#" accesskey="3" title="">Schedule</a></li>
+					<li><a href="#" accesskey="4" title="">QnA</a></li>
 					<li><a href="#" accesskey="5" title="">Contact Us</a></li>
 				</ul>
 			</div>
@@ -56,13 +56,13 @@
 		<div class="title">
 			<h2>Welcome to our website</h2>
 		</div>
-		<p>This is <strong>EarthyBlue</strong>, a free, fully standards-compliant CSS template designed by TEMPLATED. The photos in this template are from Fotogrph. This free template is released under the Creative Commons Attribution license, so you're pretty much free to do whatever you want with it (even use it commercially) provided you give us credit for it. Have fun :) </p>
+		<p>This is EarthyBlue, a free, fully standards-compliant CSS template designed by TEMPLATED. The photos in this template are from Fotogrph. This free template is released under the Creative Commons Attribution license, so you're pretty much free to do whatever you want with it (even use it commercially) provided you give us credit for it. Have fun :) </p>
 		<img src="../images/banner.jpg" class="image image-full" alt="" />
 	</div>
 </div>
 
 <div id="copyright" class="container">
-	<p>&copy; Untitled. All rights reserved. | Photos by Fotogrph | Design by TEMPLATED.</p>
+	<p>&copy; 2017 Airport All right reserved. | Kim Jung Seok | Kang Ji Ye | Shin Dong Wook </p>
 </div>
 
 </body>
